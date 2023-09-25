@@ -1,0 +1,17 @@
+.showcase{
+    background: url('image/arnold-francisca-f77Bh3inUpE-unsplash.jpg')no-repeat;
+    width: 100%;
+    height: 92vh;
+}
+.head{
+    font-weight: 600;
+    font-family: sans-serif;
+}
+
+footer .footer-a {
+    text-decoration: none;
+}
+
+footer .footer-a:hover {
+    color: white !important;
+}
